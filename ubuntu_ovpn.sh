@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='209.159.152.66';
-USER='crypticv_akplus';
+USER='abolirez_gbd';
 PASS='@@@@F1r3n3t';
-DBNAME='crypticv_akplus';
+DBNAME='abolirez_gbd';
 
 install_require()
 {
